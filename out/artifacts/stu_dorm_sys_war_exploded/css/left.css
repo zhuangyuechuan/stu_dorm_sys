@@ -1,0 +1,136 @@
+
+
+	* {
+	  margin: 0px ;
+	  /* padding:10px 0px 0px 5px; 	上右下左 */
+	  text-align:center;
+	  
+	}
+	
+	
+	.left_bg{
+		width:200px;
+		height:700px;
+		background-color:#acbce6;
+		margin-left:100px;
+		margin-top:10px;
+		font-size:22px;
+		border-radius:25px;
+	}
+
+	.kong{
+		height:50px;
+	}
+	
+	#admin-checkbox{
+	  display: none;
+	  
+	}
+	
+	#admin-checkbox:checked ~ .tag-list_1{		/* A~B 选择前面有A元素的所有B标签，为相同父元素中位于A标签后的所有B元素设置样式 */
+	  display: none;
+	  padding:0px;
+	}
+	
+	#teacher-checkbox{
+	  display: none;
+	}
+	
+	#teacher-checkbox:checked ~ .tag-list_2{
+	  display: none;
+	  padding:0px;
+	}
+	
+	#student-checkbox{
+	  display: none;
+	}
+	
+	#student-checkbox:checked ~ .tag-list_3{
+	  display: none;
+	  padding:0px;
+	}
+	
+	#xuanke-checkbox{
+	  display: none;
+	}
+	
+	#xuanke-checkbox:checked ~ .tag-list_4{
+	  display: none;
+	  padding:0px;
+	}
+	
+
+	li{
+	  float: left;
+	  margin: 0px;
+	  padding:10px 0 10px 0;
+	  list-style-type: none;
+	  font-size:20px;
+	  width:150px;
+	}
+	
+	a {
+	  text-decoration: none;
+	}
+	
+
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+	      
+      
+      
